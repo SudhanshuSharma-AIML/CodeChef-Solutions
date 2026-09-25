@@ -3,7 +3,7 @@
 // Language: C++​
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/T20MCH
-// Solved on: 2026-09-25T10:41:07.488Z
+// Solved on: 2026-09-25T10:41:20.382Z
 
 #include <bits/stdc++.h>
 using namespace std;
