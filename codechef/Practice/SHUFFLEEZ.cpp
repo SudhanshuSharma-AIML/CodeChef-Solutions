@@ -3,12 +3,12 @@
 // Language: C++​
 // Verdict: Accepted
 // URL: https://www.codechef.com/START258D/problems/SHUFFLEEZ
-// Solved on: 2026-09-30T16:26:30.067Z
+// Solved on: 2026-09-30T16:29:36.011Z
 
-3
-3 2
-1 2 3
-3 3
-1 2 3
-5 3
-1 2 3 4 5
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+	// your code goes here
+
+}
