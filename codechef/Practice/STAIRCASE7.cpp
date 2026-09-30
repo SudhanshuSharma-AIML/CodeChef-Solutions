@@ -3,12 +3,6 @@
 // Language: C++​
 // Verdict: Accepted
 // URL: https://www.codechef.com/START258D/problems/STAIRCASE7
-// Solved on: 2026-09-30T16:25:35.741Z
+// Solved on: 2026-09-30T16:26:03.218Z
 
-3
-4
-1 2 3 4
-4
-4 4 1 2
-3
-3 2 1
+// source not captured automatically - open the solution page and copy it manually
