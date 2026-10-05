@@ -1,0 +1,8 @@
+// Problem: NLVEL
+// Platform: codechef
+// Language: ​​
+// Verdict: Accepted
+// URL: https://www.codechef.com/DSAMONDAY023/problems/NLVEL
+// Solved on: 2026-10-05T14:45:24.059Z
+
+# cook your dish here
