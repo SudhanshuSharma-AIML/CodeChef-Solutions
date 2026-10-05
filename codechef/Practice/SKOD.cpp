@@ -3,12 +3,6 @@
 // Language: C++​
 // Verdict: Accepted
 // URL: https://www.codechef.com/DSAMONDAY023/problems/SKOD
-// Solved on: 2026-10-05T14:46:32.951Z
+// Solved on: 2026-10-05T15:05:59.796Z
 
-#include <bits/stdc++.h>
-using namespace std;
-
-int main() {
-	// your code goes here
-
-}
+// source not captured automatically - open the solution page and copy it manually
