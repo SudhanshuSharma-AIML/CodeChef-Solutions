@@ -3,15 +3,6 @@
 // Language: C++​
 // Verdict: Accepted
 // URL: https://www.codechef.com/START259D/problems/ANOTSTR
-// Solved on: 2026-10-07T16:03:08.901Z
+// Solved on: 2026-10-07T16:11:04.214Z
 
-3
-3
-010
-100
-5
-00101
-11000
-4
-0110
-1000
+// source not captured automatically - open the solution page and copy it manually
