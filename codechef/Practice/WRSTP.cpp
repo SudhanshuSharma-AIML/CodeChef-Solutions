@@ -3,12 +3,6 @@
 // Language: C++​
 // Verdict: Accepted
 // URL: https://www.codechef.com/START259D/problems/WRSTP
-// Solved on: 2026-10-07T16:21:12.372Z
+// Solved on: 2026-10-07T16:22:51.493Z
 
-#include <bits/stdc++.h>
-using namespace std;
-
-int main() {
-	
-
-}
+// source not captured automatically - open the solution page and copy it manually
