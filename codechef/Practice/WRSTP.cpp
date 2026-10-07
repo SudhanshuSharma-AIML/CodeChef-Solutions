@@ -3,16 +3,12 @@
 // Language: C++​
 // Verdict: Accepted
 // URL: https://www.codechef.com/START259D/problems/WRSTP
-// Solved on: 2026-10-07T16:12:50.246Z
+// Solved on: 2026-10-07T16:21:12.372Z
 
-5
-4
-UDRR
-2
-UD
-3
-UUU
-4
-UURR
-4
-DDLR
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+	
+
+}
