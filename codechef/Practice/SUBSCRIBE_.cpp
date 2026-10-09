@@ -3,7 +3,7 @@
 // Language: C++​
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SUBSCRIBE_
-// Solved on: 2026-10-09T17:06:00.828Z
+// Solved on: 2026-10-09T17:06:10.247Z
 
 #include <bits/stdc++.h>
 using namespace std;
