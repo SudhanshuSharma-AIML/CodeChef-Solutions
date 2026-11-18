@@ -3,12 +3,6 @@
 // Language: C++​
 // Verdict: Accepted
 // URL: https://www.codechef.com/START265D/problems/RIBBONCUT
-// Solved on: 2026-11-18T15:26:05.908Z
+// Solved on: 2026-11-18T15:33:56.163Z
 
-#include <bits/stdc++.h>
-using namespace std;
-
-int main() {
-	// your code goes here
-
-}
+// source not captured automatically - open the solution page and copy it manually
