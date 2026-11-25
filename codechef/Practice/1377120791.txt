@@ -1,0 +1,8 @@
+// Problem: Change the margin
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/viewsolution/1377120791
+// Solved on: 2026-11-25T16:28:14.475Z
+
+// source not captured automatically - open the solution page and copy it manually
