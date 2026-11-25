@@ -3,6 +3,6 @@
 // Language: unknown
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/html/HTMLBASIC/problems/HTPROB08
-// Solved on: 2026-11-25T16:32:52.842Z
+// Solved on: 2026-11-25T16:33:39.577Z
 
 // source not captured automatically - copy it from the editor and use Manual Push
