@@ -4,7 +4,7 @@
 // Language: cpp
 // Verdict: Accepted
 // URL: https://leetcode.com/problems/implement-trie-prefix-tree/
-// Solved on: 2026-11-26T09:02:42.779Z
+// Solved on: 2026-11-26T09:02:54.712Z
 
 class Trie {
 public:
